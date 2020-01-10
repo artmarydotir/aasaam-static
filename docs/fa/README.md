@@ -1,44 +1,21 @@
 ---
 home: true
+pageClass: rtl-st
 heroImage: /img/aasaam.png
 heroText: آسام
 tagline: آسام عزیز
 actionText: برای شروع آماده اید؟  →
 actionLink: /guide/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title:  پروژه های ماگویای حرفه ای بودن تیم ماست 
+  details: کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه 
+- title:  روند رسیدن به هدف 
+  details: کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه Vue.
+- title:  ما عاشق کارمان هستیم
+  details: کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه 
+footer:  گروه نرم افزاری آسام
 ---
 
-# Hello VuePress
+# سلام
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-Current route is: {{ $route.path }}
-
-*Italic*, **bold**, and `monospace`
-
-```js
-<script>
-  const foo = 'bar';
-  console.log(foo);
-</script>
-
-```
-
-Itemized lists look like:
-
-  * this one
-  * that one
-  * the other one
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.

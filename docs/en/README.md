@@ -2,20 +2,20 @@
 home: true
 heroImage: /img/aasaam.png
 heroText: aasaam
-tagline: Hero subtitle
+tagline: aasaam subtitle
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /en/guide/
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: aasaam-Powered
+  details: Enjoy the dev experience of aasaam + webpack, use aasaam components in markdown, and develop custom themes with aasaam.
 - title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+  details: aasaam generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: support@aasaam.com 
 ---
 
-# Hello VuePress
+# Hello aasaam
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
