@@ -2,6 +2,7 @@
 home: true
 heroImage: /img/aasaam.png
 heroText: aasaam
+sidebarDepth: 3
 tagline: aasaam subtitle
 actionText: Get Started →
 actionLink: /en/guide/
