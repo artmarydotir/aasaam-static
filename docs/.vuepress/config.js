@@ -69,10 +69,6 @@ module.exports = {
           { text: 'Guide', link: '/en/guide/' },
           { text: 'aasaam', link: 'https://aasaam.com' },
         ],
-        // sidebar: {
-        //   '/zh/': [/* ... */],
-        //   '/zh/nested/': [/* ... */]
-        // }
       }
     },
     // sidebar: 'auto',
