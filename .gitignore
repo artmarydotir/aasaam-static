@@ -6,6 +6,7 @@ node_modules
 .env.local
 .env.*.local
 .history
+.vscode
 
 # Log files
 npm-debug.log*
