@@ -44,7 +44,7 @@ module.exports = {
             title: 'Group 1',   // required
             // path: '',      // optional, which should be a absolute path.
             collapsable: false, // optional, defaults to true
-            sidebarDepth: 3,    // optional, defaults to 1
+            // sidebarDepth: 3,    // optional, defaults to 1
             children: [
               '/fa/guide/front',
               '/fa/guide/',
@@ -76,11 +76,10 @@ module.exports = {
       {
         title: 'Group 1',   // required
         collapsable: false, // optional, defaults to true
-        sidebarDepth: 3,    // optional, defaults to 1
+        // sidebarDepth: 3,    // optional, defaults to 1
         children: [
           '/en/guide/eps',
-          '/en/guide/monitoring',
-        //   '/en/guide/',
+          '/en/guide/',
         ]
       },
       {
