@@ -46,8 +46,8 @@ module.exports = {
             collapsable: false, // optional, defaults to true
             sidebarDepth: 3,    // optional, defaults to 1
             children: [
-              '/fa/guide/front',
-              '/fa/guide/',
+               '/fa/guide/eps',
+               '/fa/guide/monitoring',
             ]
           },
           {
