@@ -1,3 +1,6 @@
+---
+pageClass: rtl_inner
+---
 # Aurora
 
 صفحه دیفالت مطالب راهنما
