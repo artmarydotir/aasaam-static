@@ -46,8 +46,8 @@ module.exports = {
             collapsable: false, // optional, defaults to true
             sidebarDepth: 3,    // optional, defaults to 1
             children: [
-               '/fa/guide/eps',
-               '/fa/guide/monitoring',
+              '/fa/guide/eps',
+              '/fa/guide/monitoring',
             ]
           },
           {
@@ -96,7 +96,11 @@ module.exports = {
   },
   plugins: [
     '@vuepress/back-to-top',
-    'vuepress-plugin-redirect'
+    'vuepress-plugin-redirect',
+    '@vuepress/register-components',
+    {
+      componentsDir: '/components/'
+    }
   ],
   plugins: {
     redirect: {

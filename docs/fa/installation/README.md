@@ -11,3 +11,7 @@ pageClass: custom-landing
 غم و شادمانی نماند ولیک
 
 جزای عمل ماند و نام نیک
+
+
+<chart-example1 />
+<chart-example2 />
